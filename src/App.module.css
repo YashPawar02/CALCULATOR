@@ -1,0 +1,17 @@
+.calculator {
+    border: 5px solid rgb(255, 255, 255);
+    width: 200px;
+    border-radius: 7px;
+    margin: auto;
+    background: #292626;
+    padding: 10px;
+  }
+h1{
+  text-align: center;
+  color: aliceblue;
+}
+body{
+ 
+background: #222222;
+
+}
